@@ -35,7 +35,7 @@ This code is for creating simple logos for yourself. Please check out the visual
 
 <a id="Visuals"></a>
 ## Visuals
-![Video Walkthrough](https://drive.google.com/file/d/1qBPkcFXRKSATATdJG3rh7ZiRNE29CCj6/view)
+[Video Walkthrough](https://drive.google.com/file/d/1qBPkcFXRKSATATdJG3rh7ZiRNE29CCj6/view)
 ![Triangle Example](https://github.com/MauryIV/logo-generator/assets/146037880/b7cd20a9-5690-4c10-933a-d367b90ae329)
 ![Circle Example](https://github.com/MauryIV/logo-generator/assets/146037880/f02f75ee-44f8-47c7-9652-cd3364407148)
 ![Square Example](https://github.com/MauryIV/logo-generator/assets/146037880/3f73b060-a4dd-402c-8c27-f3594948bbc5)
